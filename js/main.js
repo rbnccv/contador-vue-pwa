@@ -2,7 +2,7 @@
 const app = Vue.createApp({
     data(){
         return {
-            title: 'contador App',
+            title: 'Aplicacion contador',
             count: 0
         }
     },
